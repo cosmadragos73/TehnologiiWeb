@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+
+<food>
+<name>Clatite Belgiene</name>
+<price>12 Lei</price>
+<description>Doua dintre famioasele clatite Belgiene cu foarte, foarte mult sirop de artar</description>
+<calories>650</calories>
+</food>
+
+<food>
+<name>Clatite Belgiene cu gem de capsune </name>
+<price>15 Lei</price>
+<description>Doua clatite Belgiene cu gem de capsune si putin iaurt</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>Clatite cu nutella</name>
+<price>7 Lei</price>
+<description>Clatite simple cu umplutura de nutella</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>French Toast</name>
+<price>3 Lei</price>
+<description>Felii groase si proaspete din propia noastra bucatarie</description>
+<calories>600</calories>
+</food>
+
+<food>
+<name>Mic de jun ca acasa</name>
+<price>12 Lei</price>
+<description>Doua oua, bacon sau sos si French Toast</description>
+<calories>950</calories>
+</food>
+
+</breakfast_menu> 

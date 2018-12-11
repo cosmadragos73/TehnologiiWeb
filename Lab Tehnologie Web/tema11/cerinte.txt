@@ -1,0 +1,2 @@
+    Install OpenLDAP
+    The same exercise as in Laborator 9 but store the information inside an LDAP directory service not in a database.

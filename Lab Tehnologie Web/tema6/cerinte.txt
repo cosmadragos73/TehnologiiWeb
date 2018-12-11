@@ -1,0 +1,19 @@
+Create 2 small servlets and 2 HTML pages with the following functionality:
+
+    the first HTML page will contain a form having the following fields:
+        user first name (text)
+        user last name (text)
+        user username (text)
+        user password (password - at least 6 characters with validation)
+        user retyped password (password)
+        user address (text)
+        user email (text – with js validation)
+        user interests (textarea)
+        clear form button and a submit button
+        Only the first part of the Homework is mandatory. The second part will be added to the end of the JSP laboratory from next week.
+    the second HTML page will contain a form for querying a database for users as follows:
+        a search textbox where the searched user (complete or partial) will be entered
+        2 radio buttons (one called Exact search and the other Containing) for search options.
+        a submit button
+    the first servlet will store the user information from the first HTML page both inside a session and inside a database. The database structure will be designed so that it can hold the submitted information.
+    the second servlet will return the result of the query performed by the second HTML page.

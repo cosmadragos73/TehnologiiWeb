@@ -1,0 +1,3 @@
+Create simple webpage which offers the following:
+    a menu page for accessing three predefined applets. The applets can be found at http://www.echoecho.com/freeapplets.htm page.
+    a page which allows users to run a Java Application using javaws. The application should display a single image. (See http://stackoverflow.com/questions/299495/java-swing-how-to-add-an-image-to-a-jpanel for details on how to display an image using SWING)
